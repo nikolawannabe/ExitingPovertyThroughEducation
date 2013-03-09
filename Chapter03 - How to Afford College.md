@@ -1,4 +1,4 @@
-If you can't save up enough money to go to college, then how can someone in poverty get there?  So far I've seen and explored two ways.  The hard way, and the risky way.  
+If you can't save up enough money to go to college, then how can someone in poverty get there?  So far I've seen and explored two ways: The hard way, and the risky way.  
 
 # The Hard Way
 
