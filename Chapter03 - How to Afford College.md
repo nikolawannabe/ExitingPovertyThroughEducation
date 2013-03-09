@@ -28,7 +28,7 @@ The problem is that the higher prestige universities have many more students app
 
 # The Fallback Plan
 
-If you try The Hard Way and fail by not getting a 4 year full scholarship, then you will likely get a few smaller scholarships.  Scholarships that aren't "full" won't help you all that much due to the scale of costs, but you might be able to pay for shampoo at soap while at school with them.  I wouldn't count on it, but if you can, every shampoo bottle is worth it.
+If you try The Hard Way and fail by not getting a 4 year full scholarship, then you will likely get a few smaller scholarships.  Scholarships that aren't "full" won't help you all that much due to the scale of costs, but you might be able to pay for shampoo and soap while at school with them.  I wouldn't count on it, but if you can get it, every shampoo bottle is worth it.
 
 When you fail The Hard Way, you will fall back on The Risky Way.  This may actually be a good path for you to go, because having tried the hard way means that you spent a lot of time learning, and state schools will likely be easy for you to get into, and succeeding at those schools should not be terribly difficult.
 
