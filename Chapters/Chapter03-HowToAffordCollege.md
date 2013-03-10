@@ -1,6 +1,8 @@
+# How to Afford College
+
 If you can't save up enough money to go to college, then how can someone in poverty get there?  So far I've seen and explored two ways: The hard way, and the risky way.  
 
-# The Hard Way
+## The Hard Way
 
 This path will really only work if you haven't started or are just starting high school. The earlier you start on this path, the better.  The end goal of this path is to get a four year scholarship to a good school.  You can do it, as I've done it and I've seen a lot of other people do it.  Good schools want good students because good students become great researchers, and that brings them prestige.  What makes a good student is the drive to succeed.  You are driven to escape poverty, so you already have that drive.  You just need to learn to focus it so that you can get what you want out of it.
 
@@ -16,7 +18,7 @@ You'll want to join competitions in areas that you excel in, preferably ones tha
 
 If you take The Hard Way, and you succeed at the college you get into with the hard way, you'll have no debt coming out of college. This means you can pick whatever major you want, as in the worst case you finish university with a lot of knowledge and no debt.  This assumes you finish successfully - and we'll talk about what might cause that to not happen later.
 
-# The Risky Way
+## The Risky Way
 
 I call this the risky way because if you fail college having used this path, you may end up in a worse position than you started out in.  Before you go to college, your parents may have no money, but *you* have no debt.  If you go to college The Hard Way, you'll leave college with no or very little debt.  If you decide to go to college The Risky Way, you'll leave with a whole lot of debt that you need to pay off with a reliable job.  That means you need to mitigate the risk of that debt so that you don't ruin your credit so early that you can never dig your way out to afford a house.
 
@@ -26,7 +28,7 @@ Optimizing for opportunity at the college level means balancing university prest
 
 The problem is that the higher prestige universities have many more students applying, and thus find that they can charge a whole lot more.  So you'll have to decide your major by considering the level of risk that you want to accrue by gathering debt at an institution that teaches that major with high prestige.  If you don't want to take a lot of risk by taking huge debt, you may not want to choose a major that is not much sought after, or that is difficult to interview for.  
 
-# The Fallback Plan
+## The Fallback Plan
 
 If you try The Hard Way and fail by not getting a 4 year full scholarship, then you will likely get a few smaller scholarships.  Scholarships that aren't "full" won't help you all that much due to the scale of costs, but you might be able to pay for shampoo and soap while at school with them.  I wouldn't count on it, but if you can get it, every shampoo bottle is worth it.
 

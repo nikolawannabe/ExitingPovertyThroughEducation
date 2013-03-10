@@ -1,3 +1,5 @@
+# Anyone Can Go to College
+
 I can't tell you how many times people have told me that they "can't afford to go to college."  The saddest part of it is that most of them actually believe it, and it is a bald-faced untruth.
 
 Polticians like to bandy about phrases like "an education isn't worth what it used to be".  Uneducated adults may try to tell you to look at people like Steve Jobs, who dropped out of college, started a business, and became a billionaire.  Polticians do this because they want to draw attention away from the fact that higher education in the United States is massively underfunded compared to other nations, and convince voters that higher education isn't worth spending on so they can put your tax dollars somewhere else.  Adults are doing it simply because they want to convince themselves that they can still get rich even though they don't have an education.  When you look around, the cases where people actually manage to get out of poverty without either a whole lot of luck or a whole lot of work are few and far between.  The simple fact is that if you are coming from poverty you almost always need to go to college.
