@@ -1,7 +1,7 @@
-Exiting Poverty Through Education
+Sleep is for the Weak
 ==============================
 
-My "book" on how to leave poverty behind the slow way - education.
+How to get out of poverty the slow way, by getting an education!
 
 [Chapter 1: Work is Hard](https://github.com/nikolawannabe/ExitingPovertyThroughEducation/blob/master/Chapters/Chapter01-WorkIsHard.md)
 
