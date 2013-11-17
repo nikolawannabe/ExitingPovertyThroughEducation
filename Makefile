@@ -1,4 +1,4 @@
-BOOK_FILE_NAME = "ExitingPovertyThroughEducation"
+BOOK_FILE_NAME = "SleepIsForTheWeak"
 SRC_DIR = Chapters
 
 ARGS = $(shell ls -1 $(SRC_DIR) | sed -e "s/^/$(SRC_DIR)\//")
