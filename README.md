@@ -1,8 +1,7 @@
 Sleep is for the Weak
 ==============================
 
-Society lied to us for years, by telling us that we could work our way up out of poverty with minimum wage jobs, but there is a way to your dreams that really does work, and it is paved with books and classes.  If you're a middle school kid stuck in a trailer park, but you want better, this book will explain how you can afford to get an education. 
----------------
+> Society lied to us for years, by telling us that we could work our way up out of poverty with minimum wage jobs, but there is a way to your dreams that really does work, and it is paved with books and classes.  If you're a middle school kid stuck in a trailer park, but you want better, this book will explain how you can afford to get an education. 
 
 Many, many kids in the United States think that they can never afford to go to college.  They waste their formative and free years cursing the system that put them into poverty, and wasting their healthy bodies and minds on worthless go-nowhere jobs that will never cover a decent mortgage, much less take care of a family, instead of working smart to get out of it.  When you are deep in poverty, you may not have a plan for how to get out, or even to where to start.
 
